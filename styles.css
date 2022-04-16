@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    text-align: center;
+    margin-top: 10%;
+}
+
+input {
+    /* text-align: center; */
+	padding: 10px;
+	margin-bottom: 20px;
+	margin-left: 30%;
+	width: 40%;
+	height: 20px;
+	border: 1px solid #ff8c00;
+    
+}
+
+.btn {
+    margin-left: 30%;
+}
+
+.ou {
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 30%;
+    height: 70px;
+    width: 40%;
+}
